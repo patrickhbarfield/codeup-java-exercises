@@ -1,4 +1,5 @@
 import org.w3c.dom.ls.LSOutput;
+import java.util.Scanner;
 
 public class HelloWorld {
 
@@ -15,13 +16,13 @@ public class HelloWorld {
 /*        System.out.println("Hello, World");*/
 
         // 1. Create an int variable named myFavoriteNumber and assign your favorite number to it, then print it out to the console.
-        int myFavoriteNumber = 7;
-        System.out.println(myFavoriteNumber);
+/*        int myFavoriteNumber = 7;
+        System.out.println(myFavoriteNumber);*/
 
       //  2. Create a String variable named myString and assign a string value to it, then print the variable out to the console.
 
-String myString = "String my string";
-        System.out.println(myString);
+/*String myString = "String my string";
+        System.out.println(myString);*/
 
        // 3. Change your code to assign a character value to myString. What do you notice?
         // ans: you get an error because they are incompatible types
@@ -122,5 +123,54 @@ String myString = "String my string";
 
 /*byte me = 126 + 2;
         System.out.println(me);*/
-                }
+
+        //Console IO
+//%s represents string variable "codeup"  %n is newline.  what is name?
+/*        String name = "codeup";
+        System.out.printf("Hello there, %s. Nice to see you.%n", name); you can have a series of comma's if you have
+        a series of placeholders.  Each comma will correspond to the place-holder. %d is any integer, and %f is any floating point
+         number.
+          "souf" tab is the shorthand for system.out.printf*/
+
+/*
+        String greeting = "Salutations";
+        String name = "codeup";
+        System.out.printf("%s, %s!", greeting, name);
+*/
+//scanner and its constructor takes at least one value, system.in is for input, output is system.out
+
+/*
+        Scanner scanner = new Scanner(System.in);
+
+        //put a prompt before the input.
+        System.out.println("Please enter a city name");
+        String city = scanner.nextLine();
+        System.out.println("please enter a state name");
+        String state = scanner.nextLine();
+        System.out.println("How long have you lived there?");
+        int years = scanner.nextInt();
+
+        System.out.printf("Welcome to %s, %s! I've lived here %d years", city, state,years);
+*/
+
+        //print f will not output to a newline.  If you want to do that you have to use the newline character.
+
+/*        System.out.print("Enter something: ");
+        String userInput = scanner.next();
+
+        System.out.println("You entered: --> \"" + userInput + "\" <--");*/
+
+        //put a prompt before the input.
+/*        System.out.println("Please enter a city name");
+        String city = scanner.nextLine();
+        System.out.println("please enter a state name");
+        String state = scanner.nextLine();
+        System.out.println("How long have you lived there?");
+        int years = scanner.nextInt();
+        System.out.printf("Welcome to %s, %s! I've lived here %d years", city, state,years);*/
+
+
+
+
+    }
 }
