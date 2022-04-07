@@ -11,8 +11,10 @@ import java.util.Scanner;
             then increment i by one.
 */
 
+/*
 public class ControlFlowExercises {
     public static void main(String[] args) {
+*/
 
 /*        int i = 5;
         while (i <= 15) {
@@ -99,8 +101,7 @@ public class ControlFlowExercises {
                 anotherGrade = false;
             }
         } while (anotherGrade);*/
-    }
-}
+
 
 
 /*        // Do-while loop
