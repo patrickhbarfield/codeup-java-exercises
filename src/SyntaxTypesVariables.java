@@ -1,4 +1,4 @@
-public class SyntaxTypesVariables {
+/*public class SyntaxTypesVariables {
 
     public static void main(String[] args) {
 
@@ -13,13 +13,13 @@ public class SyntaxTypesVariables {
         // keyword final is like const in javascript and can't be changed.
         // use a byte for days of month
 
- byte myByte = 31;
+*//* byte myByte = 31;
 
  short employees = 1000;
 
  int userID = 1000000;
 
- long lightYears = Long.MAX_VALUE +1;
+ long lightYears = Long.MAX_VALUE +1;*//*
 
  // System.out.println(lightYears);
  //2 decicmal primitive type. float and double
@@ -48,7 +48,7 @@ boolean patLikesMezcal = true;
         String backSlash = "I can do a backslash \\. Double backslash \\\\. And.....triple backslash\\\\\\";
         System.out.println(backSlash);
 
-        System.out.println(someQuote + "\n" + someQuote);
+        System.out.println(someQuote + "\n" + someQuote);*/
 
         //implicit is getting more precise.
     }
