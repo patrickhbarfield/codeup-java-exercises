@@ -1,8 +1,17 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class ConsoleExercises {
 
     public static void main(String[] args) {
+
+
+      var asssssssign boolean  livesInCity
+                hasTransportation
+                        anComeInPerson made up of  bool previous 2 variables
+
+            if statement,
+
+                if they can come in person, then print you can coem in person.*/
 
         //next is 1.  nextln is a sentence
 
@@ -49,6 +58,7 @@ String variable using the next method. Then, display that sentence back to the u
 
         Assume that the rooms are perfect rectangles.
                 Assume that the user will enter valid numeric data for length and width.*/
+/*
 
         Scanner scanner = new Scanner(System.in);
         int userLength = Integer.parseInt(scanner.nextLine());
@@ -57,6 +67,7 @@ String variable using the next method. Then, display that sentence back to the u
 
 
 
+*/
 
 
         /*        String sentence = scanner.nextLine();*/
@@ -77,6 +88,6 @@ String variable using the next method. Then, display that sentence back to the u
 
  /*       System.out.printf("Welcome to %s, %s! I've lived here %d years", city, state,years);
         System.out.printf("Hi %s, %s! I find you very %s quality", person, quality, doWithMe);*/
-
+/*
     }
-}
+}*/
