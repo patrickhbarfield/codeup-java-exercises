@@ -1,7 +1,18 @@
-public class Student {
+import java.util.ArrayList;
 
-    Student.name
-    Student.grades
+public class Student {
+    //main method
+    public void main(String[] args) {
+Student student1 = new Student("Albert");
+
+        ArrayList<String> grades = new ArrayList<>();
+       grades.add("light");
+
+
+        System.out.println(roasts); // [light, medium, medium, dark]
+
+
+    }
 
     // returns the student's name
     public String getName();
