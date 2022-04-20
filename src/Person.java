@@ -1,4 +1,4 @@
-
+/*
 //creating a new class.
 public class Person {
     //writing main method on the class (person) that creates a new object
@@ -35,7 +35,7 @@ public class Person {
         System.out.println("Hello from," + this.name);
     }
 
-}
+}*/
 
     //must make the constructor outside of the method. constructor creates a new object.
 
