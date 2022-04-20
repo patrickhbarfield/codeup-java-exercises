@@ -2,6 +2,7 @@ import javafx.util.converter.PercentageStringConverter;
 
 import java.util.Arrays;
 
+/*
 public class ArraysExercises {
 
     public static void main(String[] args) {
@@ -32,3 +33,4 @@ public class ArraysExercises {
 
     }
 }
+*/

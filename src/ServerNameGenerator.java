@@ -1,3 +1,4 @@
+/*
 import java.util.Random;
 
 public class ServerNameGenerator {
@@ -12,4 +13,4 @@ public class ServerNameGenerator {
         int randomIndex = random.nextInt(wordArr.length);
         return wordArr[randomIndex];
     }
-}
+}*/
